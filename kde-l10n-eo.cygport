@@ -1,0 +1,10 @@
+inherit kde4
+
+NAME="kde-l10n-eo"
+VERSION=16.08.3
+RELEASE=1
+CATEGORY="KDE"
+SUMMARY="KDE Esperanto translation files"
+DESCRIPTION="KDE Esperanto translation files"
+
+ARCH=noarch
